@@ -6,6 +6,8 @@ Here I list projects with reports or presentations that I did as part of my mast
 
 * Seminar of Particle Physics, [talk in English about the HEP Software Foundation](https://gitlab.cern.ch/lciucu/Portfolio/-/blob/master/MasterUniversiteDeGeneve/LuizaCiucuSeminarOfParticlePhysicsTalkEnglish.pdf)
 
+* Physics in Everyday Life, [talk in French about light pollution](https://gitlab.cern.ch/lciucu/Portfolio/-/blob/master/MasterUniversiteDeGeneve/LuizaCiucuPhysicsInEverydayLifeTalkFrench.pdf)
+
 * Scientific and Medical Communication, [report in French about the first color X rays](https://gitlab.cern.ch/lciucu/Portfolio/-/blob/master/MasterUniversiteDeGeneve/LuizaCiucuScientificMedicalCommunicationReportFrench.pdf)
 
 
